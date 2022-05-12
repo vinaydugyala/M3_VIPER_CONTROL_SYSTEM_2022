@@ -53,8 +53,11 @@ You can adjust the speed of the car wiper system according to the rainfall
 
 ## WEAKNESS
 -> Structural Inertia
+
 -> High Transaction Cost
+
 -> No Focus on Private Sector
+
 -> Week Focus on Process Innovations
 
 ## OPPRONUTIES
