@@ -7,8 +7,11 @@
 
 # FEATURES OF STM32F407VG MICROCONTROLLER
 -> Up to 1 Mbyte of Flash memory.
+
 -> Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
+
 -> Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
+
 -> 512 bytes of OTP memory.
 
 # WORKING PRINCIPLE
@@ -41,8 +44,11 @@ You can adjust the speed of the car wiper system according to the rainfall
 
 ## STRENGTH
 -> Low Budget
+
 -> Good Reputation
+
 -> High Bargaining Power Supliers
+
 -> Big Influence on the Market
 
 ## WEAKNESS
@@ -53,13 +59,19 @@ You can adjust the speed of the car wiper system according to the rainfall
 
 ## OPPRONUTIES
 -> Emerging New Markets
+
 -> Technological Development
+
 -> Demand for Saver Equipments
+
 -> Technological Lock in of Product
 
 ## THREATS
 -> Low Bargaining Power Buyers
+
 -> Highly REgulated Industry
+
 -> Ethical Pressure
+
 -> Econimical Crisis
 
