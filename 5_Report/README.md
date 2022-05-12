@@ -49,3 +49,47 @@ A wiper speed control system for an automobile manages the wiper's functioning s
 You can adjust the speed of the car wiper system according to the rainfall
 
 # HIGH LEVEL REQUIREMENTS
+![image](https://user-images.githubusercontent.com/80596756/168078402-da8d0884-3a8d-40dd-97bb-3897d5284875.png)
+
+# LOW LEVEL REQUIREMENTS
+![image](https://user-images.githubusercontent.com/80596756/168078554-2324aee6-1714-47cf-8bb9-c28e7318267e.png)
+
+# SWOT ANALYSIS
+
+## STRENGTH
+-> Low Budget
+
+-> Good Reputation
+
+-> High Bargaining Power Supliers
+
+-> Big Influence on the Market
+
+## WEAKNESS
+-> Structural Inertia
+
+-> High Transaction Cost
+
+-> No Focus on Private Sector
+
+-> Week Focus on Process Innovations
+
+## OPPRONUTIES
+-> Emerging New Markets
+
+-> Technological Development
+
+-> Demand for Saver Equipments
+
+-> Technological Lock in of Product
+
+## THREATS
+-> Low Bargaining Power Buyers
+
+-> Highly REgulated Industry
+
+-> Ethical Pressure
+
+-> Econimical Crisis
+
+
