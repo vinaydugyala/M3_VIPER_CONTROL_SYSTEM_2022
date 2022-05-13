@@ -1,5 +1,5 @@
 # OUTPUT IMAGES
-## user button and hold it for two seconds
+## USER BUTTON AND HOLD IT FOR TWO SECONDS
 ![image](https://user-images.githubusercontent.com/80596756/168289163-f53ef525-bb62-4fa4-a30a-a521afaa304f.png)
 ## WIPER SPEED LOW
 ![image](https://user-images.githubusercontent.com/80596756/168289399-cff40987-1669-4190-a76b-be2d3eaa1caa.png)
