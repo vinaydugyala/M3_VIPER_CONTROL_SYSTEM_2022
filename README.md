@@ -5,3 +5,5 @@
 [![Cppcheck Analysis](https://github.com/vinaydugyala/M3_WIPER_CONTROL_SYSTEM_2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vinaydugyala/M3_WIPER_CONTROL_SYSTEM_2022/actions/workflows/cppcheck.yml)
 # BUILD IN WINDOWS BADGE
 [![Bulid CI - windows](https://github.com/vinaydugyala/M3_WIPER_CONTROL_SYSTEM_2022/actions/workflows/Windows.yml/badge.svg)](https://github.com/vinaydugyala/M3_WIPER_CONTROL_SYSTEM_2022/actions/workflows/Windows.yml)
+# VALGRIND BADGE
+[![Valgrind](https://github.com/vinaydugyala/M3_WIPER_CONTROL_SYSTEM_2022/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/vinaydugyala/M3_WIPER_CONTROL_SYSTEM_2022/actions/workflows/Valgrind.yml)
