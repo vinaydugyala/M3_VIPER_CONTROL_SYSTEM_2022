@@ -9,6 +9,3 @@
 ![image](https://user-images.githubusercontent.com/80596756/168290304-334af7eb-4f82-4a72-9d0b-ce62cda3004f.png)
 ## USER BUTTON IS PRESSED AND HELD FOR 2 SECONDS, THE RED LED IS OFF
 ![image](https://user-images.githubusercontent.com/80596756/168290498-3bf042b4-ec36-40fe-bcc1-00c50b14e222.png)
-## WIPER_SYSTEM
-![image](https://user-images.githubusercontent.com/80596756/168291244-41ee2733-e9a1-4301-a0c2-248cba23ec2b.png)
-
